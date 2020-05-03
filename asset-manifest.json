@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/XpenseAppReactVersion/static/js/main.5182eb9b.chunk.js",
+    "main.js.map": "/XpenseAppReactVersion/static/js/main.5182eb9b.chunk.js.map",
+    "runtime-main.js": "/XpenseAppReactVersion/static/js/runtime-main.1c8fde55.js",
+    "runtime-main.js.map": "/XpenseAppReactVersion/static/js/runtime-main.1c8fde55.js.map",
+    "static/js/2.bfdfdd94.chunk.js": "/XpenseAppReactVersion/static/js/2.bfdfdd94.chunk.js",
+    "static/js/2.bfdfdd94.chunk.js.map": "/XpenseAppReactVersion/static/js/2.bfdfdd94.chunk.js.map",
+    "index.html": "/XpenseAppReactVersion/index.html",
+    "precache-manifest.f811c30fae6dc458cb078d0f52331d3f.js": "/XpenseAppReactVersion/precache-manifest.f811c30fae6dc458cb078d0f52331d3f.js",
+    "service-worker.js": "/XpenseAppReactVersion/service-worker.js",
+    "static/js/2.bfdfdd94.chunk.js.LICENSE.txt": "/XpenseAppReactVersion/static/js/2.bfdfdd94.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c8fde55.js",
+    "static/js/2.bfdfdd94.chunk.js",
+    "static/js/main.5182eb9b.chunk.js"
+  ]
+}
